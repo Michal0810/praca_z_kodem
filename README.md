@@ -1,1 +1,1 @@
-# cw_praca_z_kodem
+# README jest ważne w projekcie, ponieważ zawiera opis projektu oraz instrukcje instalacji i uruchomienia, może zawierać źródło kontaktu w przypadku występowania błędów oraz informacje na temat praw autorskich.
